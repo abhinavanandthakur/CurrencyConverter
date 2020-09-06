@@ -1,4 +1,4 @@
-<h1 align="center" >Currency onverter App </h1>
+<h1 align="center" >Currency Converter App </h1>
 
 
 ### About the app:
